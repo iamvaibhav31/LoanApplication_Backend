@@ -1,3 +1,3 @@
 module.exports = {
-  db: "mongodb://127.0.0.1:27017/Embifiprojectdatabase",
+  db: "mongodb+srv://vaibhavsharma:MUMMY_0105@nestedcommentingsystem.nbr28xh.mongodb.net/?retryWrites=true&w=majority",
 };
